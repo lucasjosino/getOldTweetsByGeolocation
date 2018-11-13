@@ -16,7 +16,9 @@ Obtenha as coordenadas da região que deseja coletar e calcule o raio necessári
 legenda:
 
 coordenadas = as coordenadas do ponto.
+
 X = número da distância coberta a partir da coordenada.
+
 termosdabusca = palavras contidas nos tweets.
 
 Exemplo em getOldTweets: Exporter.py --querysearch "geocode:-18.9327484,-48.2529798,13.75km Ator"
