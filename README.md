@@ -11,7 +11,7 @@ As duas ferramentas de busca tem intuito de barrar a limitação do número de t
 O componente permitido pela busca do twitter são as coordenadas existentes no json de cada tweet e são traduzidas na busca como "geocode:". Ao fazer uma busca avançada na rede social utilizando "geocode:coordenada,xKM" onde x representa o raio de distância coberto pela busca a partir da coordenada é possivel obter os resultados filtrados. Tente https://twitter.com/search?f=tweets&q=geocode%3A-18.914000%2C-48.261981%2C18.18km&src=typd.
 
 # Incrementando a busca do GetOldTweets e twitterscraper
-Obtenha as coordenadas da região que deseja coletar e calcule o raio necessário para atingir todo o bairro/cidade/estado/País (é possível obter pelo google maps e ao clicar com o esquerdo medir a distância a partir do ponto). Insira no campo da ferramenta de sua preferência "geocode:coordenadas,Xkm termosdabusca".
+Obtenha as coordenadas da região que deseja coletar e calcule o raio necessário para atingir todo o bairro/cidade/estado/País (é possível obter pelo google maps e ao clicar com o direito medir a distância a partir do ponto). Insira no campo da ferramenta de sua preferência "geocode:coordenadas,Xkm termosdabusca".
 legenda:
 coordenadas = as coordenadas do ponto.
 X = número da distância coberta a partir da coordenada.
