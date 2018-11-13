@@ -1,7 +1,7 @@
 # getOldTweetsByGeolocation
 Como buscar tweets por ferramentas disponibilizadas filtrando pela localização.
 
-# Introduction
+# Introdução
 O Twitter descontinuou seu conceito de localizações deixando as ferramentas existentes para extração de dados de lado quanto à obtenção de tweets por localização. Segue tutorial para busca de tweets utilizando getOldTweets (https://github.com/lucasjosino/GetOldTweets-java) ou twitterscraper (https://github.com/taspinar/twitterscraper) que permitirá a busca filtrando por bairro, cidade, estado, País. Deve ser funcional para outras ferramentas de extração.
 
 # Twitter Advanced Search
