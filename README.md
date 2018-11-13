@@ -17,7 +17,7 @@ coordenadas = as coordenadas do ponto.
 X = número da distância coberta a partir da coordenada.
 termosdabusca = palavras contidas nos tweets.
 
-Exemplo em getOldTweets: Exporter.py --querysearch "geocode%3A-18.9327484%2C-48.2529798%2C13.75km Ator"
+Exemplo em getOldTweets: Exporter.py --querysearch "geocode:-18.9327484,-48.2529798,13.75km Ator"
 
 # Considerações
 Essa busca pode limitar ou extraviar os dados quanto as regiões necessárias mas ainda permite filtrar por bairro, cidade, estado, País desde que haja certa cautela quando a amostragem escolhida para sua pesquisa, aplicação ou trabalho.
